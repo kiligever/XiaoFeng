@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d8713d1b50a8f572","x":-112,"y":18,"width":250,"height":60,"type":"text","text":"Ascas "},
+		{"id":"0ae5e9ca519c9585","x":-112,"y":-500,"width":400,"height":400,"type":"file","file":"日记/2024-05-31.md"}
+	],
+	"edges":[
+		{"id":"08f4967a216af552","fromNode":"0ae5e9ca519c9585","fromSide":"bottom","toNode":"d8713d1b50a8f572","toSide":"top"}
+	]
+}

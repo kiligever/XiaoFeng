@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "XiCplusplus",
+      "FabJava",
+      "FabPython",
+      "FasCode",
+      "FabDocker"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "lucideIconPackType": "native"
+  },
+  "Excalidraw": "FasDrawPolygon",
+  "日记": "CoCalendarDays",
+  "Obsidian": "CoNoteEdit",
+  "Templater": "OcRepoTemplate16",
+  "白板": "FiClipboard",
+  "Obsidian/插件": "TiPlug",
+  "Obsidian/语法": "TiTextGrammar",
+  "Docker": "FabDocker",
+  "Code": "FasCode",
+  "Code/Python": "FabPython",
+  "Code/Java": "FabJava",
+  "Code/C++": "XiCplusplus",
+  "数据分析": "TiChartDots",
+  "网络": "TiNetwork"
+}

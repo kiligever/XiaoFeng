@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "086b52c7bc3815df",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b4817f2744e61dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a76418032493d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b03faca31a85d9d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d7ece240a44611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68eedb381ad28a09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb6d1fe79ec08a76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7e08eb57561f50a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1daf1c4788211f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4375c229758bea0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8562bbc0a89ece82",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d0c93aedfa32826",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "f66010550e59dd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "98ba958cd18ff0ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b10a634dece6057",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "26d436722facb56c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "439f38627605935f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fd254327ead3933",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b1a799f6085dd7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c5c830bc09ec435",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "96b85aea35a8c310",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": true,
+      "switcher:打开快速切换": true,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": true,
+      "audio-recorder:开始/结束录音": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "68eedb381ad28a09",
+  "lastOpenFiles": [
+    "网络/HTTP.md",
+    "网络/域名.md",
+    "Excalidraw/Drawing 2024-09-23 20.02.01.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240923200301_586.png",
+    "Excalidraw/assets",
+    "网络/互联网是如何运作的.md",
+    "日记/日/2024-09-23.md",
+    "白板/未命名.canvas",
+    "白板/测试.canvas",
+    "日记/周/2024-W39.md",
+    "未命名 1.canvas",
+    "日记/周",
+    "日记/日",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2024-09-23 19.54.06.excalidraw.md",
+    "Obsidian/插件/Calendar.md",
+    "Code/C++",
+    "Code/Java",
+    "未命名",
+    "Code/Python",
+    "Code",
+    "Docker/Docker 命令.md",
+    "前端",
+    "Docker/Docker.md",
+    "Docker/assets/Pasted image 20240718141315.png",
+    "Docker/assets/Pasted image 20240718141142.png",
+    "Docker/assets/Pasted image 20240718141117.png",
+    "Docker/assets/Pasted image 20240718140332.png",
+    "Docker/assets/Pasted image 20240718135430.png",
+    "Docker/assets/Pasted image 20240718134529.png",
+    "Docker/assets",
+    "Obsidian/插件/未命名.md",
+    "网络/assets/Pasted image 20240531182223.png",
+    "Obsidian/语法/高级语法.md",
+    "Obsidian/语法/assets/Pasted image 20240531150047.png",
+    "Obsidian/语法/基本语法.md",
+    "Obsidian/语法/搜索运算符.md",
+    "Obsidian/语法/Embed files.md",
+    "Obsidian/语法/快捷键.md",
+    "Obsidian/插件/EasyTyping.md",
+    "Obsidian/插件/assets/Pasted image 20240531131726.png",
+    "日记/2024-05-31.md",
+    "日记/2024-05-30.md",
+    "Templater/Diary-Day.md",
+    "Excalidraw/Drawing 2024-05-31 09.59.56.excalidraw.md",
+    "日记/2024-06-01.md",
+    "日记/未命名 1.md",
+    "日记/未命名.md",
+    "日记/未命名 3.md"
+  ]
+}
